@@ -18,7 +18,7 @@ This is a **Pokémon Listing App** built with **React (Vite), Redux, Material UI
 ## **📌 Installation & Setup**  
 **1️⃣ Clone the repository:**  
 ```bash
-git clone https://github.com/your-username/pokemon-app.git
+git clone https://github.com/ladadesh/stantech-app.git
 cd pokemon-app
 ```
 
@@ -37,7 +37,7 @@ App runs at **`http://localhost:5173/`**.
 
 ## **📌 Folder Structure**  
 ```
-pokemon-app/
+stantech-app/
 │\── src/
 │   ├── components/ (Reusable UI components)
 │   │   ├── Header.jsx (header Component)
